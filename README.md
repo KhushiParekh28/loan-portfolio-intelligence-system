@@ -13,7 +13,7 @@ The solution includes data preprocessing, exploratory data analysis, predictive 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Analyze loan portfolio performance
 - Identify borrower and portfolio risk patterns
@@ -23,7 +23,7 @@ The solution includes data preprocessing, exploratory data analysis, predictive 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python
 - SQL
@@ -34,8 +34,7 @@ The solution includes data preprocessing, exploratory data analysis, predictive 
 - Google Colab
 
 ---
-
-## 📂 Dataset
+## Dataset
 
 **Source:**
 LendingClub Accepted Loans Dataset (Kaggle)
@@ -55,7 +54,7 @@ LendingClub Accepted Loans Dataset (Kaggle)
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 ```
 Raw Dataset
@@ -84,7 +83,7 @@ Tableau Dashboard
 
 ---
 
-# 📈 Exploratory Data Analysis
+# Exploratory Data Analysis
 
 The project analyzes:
 
@@ -98,7 +97,7 @@ The project analyzes:
 
 ---
 
-# 🤖 Machine Learning
+# Machine Learning
 
 Model Used:
 
@@ -121,7 +120,7 @@ Features Used:
 
 ---
 
-# 📊 Tableau Dashboard
+# Tableau Dashboard
 
 The dashboard provides interactive monitoring of:
 
@@ -149,7 +148,7 @@ Interactive filters include:
 
 ---
 
-# 📁 Repository Structure
+#  Repository Structure
 
 ```
 loan-portfolio-intelligence-system/
@@ -174,7 +173,7 @@ loan-portfolio-intelligence-system/
 
 ---
 
-# 📌 Business Insights
+#  Business Insights
 
 - Identified high-risk borrower segments using credit grades and FICO scores.
 - Analyzed portfolio concentration across loan purposes and geographic regions.
@@ -183,7 +182,7 @@ loan-portfolio-intelligence-system/
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 - XGBoost and Random Forest models for improved prediction
 - SHAP-based model explainability
