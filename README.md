@@ -1,11 +1,11 @@
 # loan-portfolio-intelligence-system
-# 📊 Loan Portfolio Intelligence System
+# Loan Portfolio Intelligence System
 
 An end-to-end Business Intelligence and Credit Risk Analytics solution built using **Python, SQL, Tableau, and Machine Learning** to analyze lending portfolio performance, monitor portfolio health, and generate actionable business insights.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Financial institutions rely on data-driven portfolio monitoring to minimize credit risk and optimize lending decisions. This project analyzes over **225,000 LendingClub loan records** to understand borrower behavior, portfolio quality, default trends, and credit risk.
 
