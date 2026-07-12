@@ -1,4 +1,4 @@
-# loan-portfolio-intelligence-system
+
 # Loan Portfolio Intelligence System
 
 An end-to-end Business Intelligence and Credit Risk Analytics solution built using **Python, SQL, Tableau, and Machine Learning** to analyze lending portfolio performance, monitor portfolio health, and generate actionable business insights.
